@@ -1,0 +1,1 @@
+vmess://ws+tls:13c74964-93f5-4f11-89d7-e33440c063de-0@65368c25.bcyd8s.pages.dev:443/?host=65368c25.bcyd8s.pages.dev&path=/cc483547-7956-4ac1-a71a-ebaa091aee58&allowInsecure=true&tlsServerName=65368c25.bcyd8s.pages.dev#vmess@65368c25.bcyd8s.pages.dev:443
